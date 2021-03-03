@@ -1,19 +1,3 @@
-/*
-  Author :  Simeon Simeonov
-  Name :  Bolid  Arduino project
-  Ver:  Dancho micro optimizing
-*/
-
-/* Празници на роботиката и мехатрониката Русе 2017
- * Следене на линия резултат около 11.60
- * Параметрите са ориентировъчни
- * 
- * 
- * 
- * 
- */
-
-
 //---------- NEC REMOTES -------------
 //#define IR_NEC_REMOTE1  //сивото
 #define IR_NEC_REMOTE2  //черното
